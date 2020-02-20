@@ -10,6 +10,7 @@
 ## 管理
 - [停電時のシャットダウン及び再起動方法](https://github.com/mtbys-lab/Event/tree/master/Blackout)
 - [機器のメンテナンスログ](https://github.com/mtbys-lab/Event/tree/master/Maintenance)
+- [SSH・計算機サーバー、RAID](https://github.com/mtbys-lab/Event/tree/master/Server)
 - [居室の機器](https://github.com/mtbys-lab/Event/tree/master/Machine)
-[aa](bb "cc")
+
 
