@@ -4,7 +4,7 @@
 
 ## 機器
 - [SSH・計算機サーバー](https://github.com/mtbys-lab/intranet-clusters#内部計算機設定ガイド)
-- [機器の使い方](https://github.com/mtbys-lab/intranet-clusters/tree/master/servers#サーバーの使い方)
+- [機器へのアクセス](https://github.com/mtbys-lab/intranet-clusters/tree/master/servers#サーバーの使い方)
 - [居室の機器](https://github.com/mtbys-lab/Computer/tree/master/Room_machine)
 
 ## 管理
