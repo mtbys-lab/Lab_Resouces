@@ -13,5 +13,6 @@
 - [機器のメンテナンスログ](https://github.com/mtbys-lab/Event/tree/master/Maintenance)
 - [SSH・計算機サーバー、RAIDの管理](https://github.com/mtbys-lab/Event/tree/master/Server)
 - [居室(ルーター等)の機器の管理](https://github.com/mtbys-lab/Event/tree/master/Machine)
+- [GitHubの管理](https://github.com/mtbys-lab/Event/tree/master/GitHub)
 
 
