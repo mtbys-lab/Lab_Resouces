@@ -6,7 +6,7 @@
 - [SSH・計算機サーバー](https://github.com/mtbys-lab/intranet-clusters#内部計算機設定ガイド)
 - [機器へのアクセス](https://github.com/mtbys-lab/intranet-clusters/tree/master/servers#サーバーの使い方)
 - [居室の機器](https://github.com/mtbys-lab/Computer/tree/master/Room_machine)
-- [さくらVPS](https://github.com/mtbys-lab/sakura-vps)
+- [IOTA(さくらVPS)](https://github.com/mtbys-lab/sakura-vps)
 
 ## その他
 - [停電時のシャットダウン及び再起動方法](https://github.com/mtbys-lab/Event/tree/master/Blackout)
